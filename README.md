@@ -12,7 +12,7 @@ Game Logic Implementation: Handling movement, growth, and various collision scen
 
 Data Persistence: Storing and retrieving the high score using file I/O.
 
-3. How to Run
+2. How to Run
 Prerequisites: Ensure Python 3.x is installed. The turtle module is part of Python's standard library.
 
 Files: Place main.py, snake.py, food.py, and scoreboard.py in the same directory.
@@ -21,8 +21,8 @@ Execution: Run main.py
 
 Controls: Use the Arrow Keys (Up, Down, Left, Right) to control the snake's direction.
 
-5. Core Project Structure & Key Implementations
-6. 
+3. Core Project Structure & Key Implementations
+
 The project is structured into four main modules, each encapsulating a specific game entity or logic.
 
 main.py - Game Orchestrator
